@@ -1,5 +1,4 @@
 ## About Me 💊💻🌟
-Pharmaceutical Data-Scientist
 Pharmacology, Computer Programming, Modeling
 
 - 📊 I’m currently working on physiologically-based pharmacokinetic (PBPK) modeling.
