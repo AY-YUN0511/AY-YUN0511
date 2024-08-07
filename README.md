@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
+Pharmaceutical Data-Scientist
+Pharmacology, Computer Programming, Modeling
 
-<!--
-**AY-YUN0511/AY-YUN0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on physiologically-based pharmacokinetic (PBPK) modeling.
+- 🌱 I’m currently learning more about ML/DL.
+- 👯 I’m looking to collaborate on pharmaceutical data science projects.
+- 💬 Ask me about pharmacokinetics, ML/DL in pharmaceutics.
+- 📫 How to reach me: beige1313@snu.ac.kr
 
-Here are some ideas to get you started:
+## Projects
+### GNN - PK
+Optimizing PK Property Predictions Using Advanced GNN Architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PBPK - Lung
+Determination of First-in-human dosage of Inhaler Drug
+
+
