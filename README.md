@@ -3,8 +3,8 @@
 ## About Me 💊💻🌟
 Pharmacology, Computer Programming, Modeling
 
-- 📊 I’m currently working on physiologically-based pharmacokinetic (PBPK) modeling.
-- 🔍 I’m currently learning more about ML/DL.
+- 📊 Working on physiologically-based pharmacokinetic (PBPK) modeling.
+- 🔍 Learning more about ML/DL.
 - 🏃‍♀️ I’m looking to collaborate on pharmaceutical data science projects.
 - 📧 How to reach me: beige1313@snu.ac.kr
 
