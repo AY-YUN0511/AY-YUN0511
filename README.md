@@ -9,8 +9,8 @@ Pharmacology, Computer Programming, Modeling
 - 📧 How to reach me: beige1313@snu.ac.kr
 
 ## Projects
-### 💚 GNN - PK
-Optimizing PK Property Predictions Using Advanced GNN Architectures
+### 💚 ML - Vd
+Optimizing Vd Predictions Using Advanced ML Architectures
 
 ### 💛 PBPK - Lung
 Determination of First-in-human dosage of Inhaler Drug
