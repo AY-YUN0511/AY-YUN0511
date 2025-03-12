@@ -3,9 +3,10 @@
 ## About Me 💊💻🌟
 Pharmacology, Computer Programming, Modeling
 
-- 📊 Working on physiologically-based pharmacokinetic (PBPK) modeling.
-- 🔍 Learning more about ML/DL.
-- 🏃‍♀️ I’m looking to collaborate on pharmaceutical data science projects.
+- 🤖 Exploring **AI-driven molecular design** and **predictive modeling** for drug discovery.
+- 🔍 Developing **ML/DL models** for molecular property prediction.
+- 📊 Working on **physiologically-based pharmacokinetic (PBPK) modeling.**
+- 🏃‍♀️ I’m looking to collaborate on **pharmaceutical data science** projects.
 - 📧 How to reach me: beige1313@snu.ac.kr
 
 ## Projects
